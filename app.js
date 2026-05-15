@@ -72,7 +72,6 @@ function render(products = allProducts){
 
     let start =
 (currentPage - 1) * productsPerPage;
-
 let end =
 start + productsPerPage;
 
@@ -277,7 +276,6 @@ const navLinks =
 document.querySelector('.nav-links');
 
 menuToggle.addEventListener('click', () => {
-
     navLinks.classList.toggle('active');
 });
 
