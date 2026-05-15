@@ -20,8 +20,16 @@ body{
     flex-wrap:wrap;
 }
 
-.logo{
-    font-size:32px;
+.logo a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.logo-img {
+    height: 45px;         
+    width: auto;          
+    object-fit: contain;  
 }
 
 .nav-links{
