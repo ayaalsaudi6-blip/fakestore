@@ -56,8 +56,7 @@ A modern and responsive e-commerce web application built using JavaScript and Fa
 1. Clone the repository:
 
 ```bash
-git clone YOUR_REPO_LINK
-```
+https://github.com/ayaalsaudi6-blip/fakestore.git
 
 2. Open `index.html` in your browser.
 
